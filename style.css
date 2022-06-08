@@ -1,0 +1,21 @@
+*{
+    width: 100%;
+    margin: auto;
+}
+body {
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Cambria';
+    font-size: medium;
+}
+.error {
+    font-size: 15px;
+    color: red;
+}
+.card-header header{
+    text-align: center;
+    font-size: 26px;
+    font-style: bold;
+}
